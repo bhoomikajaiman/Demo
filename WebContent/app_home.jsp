@@ -19,7 +19,7 @@
 
 	
 
-	<table width="100%" border="0" cellpadding="7" cellspacing="0" class="bg_white">
+	<table width="100%" border="0" cellpadding="6" cellspacing="0" class="bg_white">
 
 	
 	  
