@@ -9,7 +9,7 @@
 <META name=GENERATOR content="MSHTML 9.00.8080.16413"></HEAD>
 <BODY BGCOLOR="#4EE2EC" >
 <form NAME="CREATEACCTFORM" action="1.jsp"  METHOD="POST" >
-<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="780" border="1" align="center" cellpadding="0" cellspacing="0">
 	
 
 	
