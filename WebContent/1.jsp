@@ -17,7 +17,7 @@
 	<table width="100%" border="0" cellpadding="7" cellspacing="0" class="bg_white">
 
 	  <tr>
-		  <td colspan="3" align="right" valign="top" class="border_green_btm bg_grey" style="padding:0px 10px 0px 0px;"><span class="txt_orange">*</span> Required fields</td>
+		  <td colspan="2" align="right" valign="top" class="border_green_btm bg_grey" style="padding:0px 10px 0px 0px;"><span class="txt_orange">*</span> Required fields</td>
 
 		</tr>
 	  
