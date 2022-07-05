@@ -54,7 +54,7 @@
 			<tr>
 				<td align="right" valign="top">Location: </td>
 
-				<td valign="top" >
+				<td valign="top">
 				
 				<select  name="loc" style="width:165" ><option > - Select -</option><option >DELHI</option><option>BANGLORE</option><option>CHENNAI</option><option>GURGAON</option><option>HYDERABAD</option><option>MUMBAI</option><option>KOLKATA</option><option>PUNE</option><option>NOIDA</option><option>KANPUR</option></select>	
 
