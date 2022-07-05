@@ -9,7 +9,7 @@
 <body>
 <form method="post" action="login_e.jsp">
 <FONT SIZE="4"COLOR="blue" FACE="roman"><b>THANK YOU FOR REGISTERING.</b></FONT><br>
-<FONT SIZE="4"COLOR="blue" FACE="roman"><b>LOGIN TO MOVE TO YOUR HOME PAGE.</b></FONT><br>
+<FONT SIZE="5"COLOR="blue" FACE="roman"><b>LOGIN TO MOVE TO YOUR HOME PAGE.</b></FONT><br>
 <INPUT TYPE="SUBMIT" VALUE="OK">
 </form>
 </body>
