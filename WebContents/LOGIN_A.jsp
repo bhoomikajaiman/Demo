@@ -34,7 +34,7 @@ function chk_onclick()
 <img src="login-icon.gif"   width="100" height="100">
 <td bgcolor="blue" align=center style="padding:2;padding-bottom:4">
 
-<b><font size=-1 color="white" 
+<b><font size=-2 color="white" 
 face="verdana,arial"><b>Enter your login and password</b></font></td></tr>
 <tr><td bgcolor="white" style="padding:5"><br>
 
